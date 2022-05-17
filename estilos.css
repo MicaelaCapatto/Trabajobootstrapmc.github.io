@@ -3,7 +3,7 @@
 }
 
 .foto1 {
-    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imagenes/ba1.jpg);
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./imagenes/ba1.jpg);
     height: 55rem;
     background-position: center center;
     background-repeat: no-repeat;
